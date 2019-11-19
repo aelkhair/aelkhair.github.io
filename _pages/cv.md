@@ -2,7 +2,7 @@
 title: "Curiculum Vitae"
 permalink: /cv/
 header:
-    image: "/images/about.jpg"
+    image: "/images/cv.jpg"
 ---
 
 Amine EL KHAIR
