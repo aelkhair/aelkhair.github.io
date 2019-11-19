@@ -5,10 +5,6 @@ header:
     image: "/images/about.jpg"
 ---
 
-I am a Data Science & Artificial Intelligence consultant at DataFab. I received my 'Grande Ecole' Master's degree in Engineering from ENSIAME Engineering School at Haut-de-France Polytechnic University, and my M.S. in Operations Research and Machine Learning from TSINGHUA University. Before joining DataFab, I had the opportunity to work at a number of industrial research labs including ALTRAN research Labs and I have also worked in consultancy for Synechron.
-
-
-
 Amine EL KHAIR is a Data Scientist trained in Artificial Intelligence, Deep Learning, Machine Learning and their applications, currently working at DataFab in Paris.
 
 His research focuses on time series forcasting and anomaly detection. Apart from Machine Learning, he have a keen interest in Financial Derivatives and Risk Management and Commodity Market (Paper and Physical Trading).
@@ -16,5 +12,5 @@ His research focuses on time series forcasting and anomaly detection. Apart from
 During his studies, he ranked 21<sup>st</sup> at The European Finance Cup in 2017 (organised by CACIB and EDHEC with 2400+ participants).
 
 
-
-
+Amine earned a "Grande Ecole" Computer Science and Industrial Engineering diploma (equivalent to a master degree) from ENSIAME Engineering School at Hauts-de-France Polytechnic University, and had an exchange semester at TsingHua University in Beijing where he specialized in Statistical Machine Learning and Supply Chain Management.
+He won the Mermoz Regional Scholarship from the region of Hauts-de-France in 2017.
