@@ -5,7 +5,7 @@ header:
     image: "/images/about.jpg"
 ---
 <div style="text-align: justify">
-Amine EL KHAIR is a Data Scientist trained in Artificial Intelligence, Deep Learning, Machine Learning and their applications, currently working at DataFab in Paris.&nbsp;
+Amine EL KHAIR is a Data Scientist trained in Artificial Intelligence, Deep Learning, Machine Learning and their applications, currently working at DataFab in Paris.<br/>
 
 His research focuses on time series forcasting and anomaly detection. Apart from Machine Learning, he have a keen interest in Financial Derivatives and Risk Management and Commodity Market (Paper and Physical).</div>&nbsp;
 
