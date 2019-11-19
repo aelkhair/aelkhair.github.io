@@ -12,15 +12,15 @@ Amine EL KHAIR
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017-2018
+:   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **MSc, Computer Science and Industrial Engineering**; ENSIAME University of
+    Hauts-de-France (Valenciennes,FR)
 
     *Minor: Awesomeology*
 
