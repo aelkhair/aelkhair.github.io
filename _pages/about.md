@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/wudaoku.jpg"
+    image: "/images/header.jpg"
 ---
 
 I'm an Data Science & Artificial Intelligence consultant at DataFab. I received my 'Grande Ecole' Master's degree in Engineering from ENSIAME Engineering School at Haut-de-France Polytechnic University, and my M.S. in Operations Research and Machine Learning from TSINGHUA University. Before joining DataFab, I had the opportunity to work at a number of industrial research labs including ALTRAN research Labs and I have also worked in consultancy for Synechron.
