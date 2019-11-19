@@ -18,7 +18,7 @@ Education
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
+2015-2018
 :   **MSc, Computer Science and Industrial Engineering**; ENSIAME University of
     Hauts-de-France (Valenciennes,FR)
 
