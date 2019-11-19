@@ -12,5 +12,5 @@ His research focuses on time series forcasting and anomaly detection. Apart from
 During his studies, he ranked 21<sup>st</sup> at The European Finance Cup in 2017 (organised by CACIB and EDHEC with 2400+ participants).
 
 
-Amine earned a "Grande Ecole"'s Computer Science and Industrial Engineering diploma (equivalent to a master degree) from ENSIAME Engineering School at Hauts-de-France Polytechnic University, and had an exchange semester at TsingHua University in Beijing where he specialized in Statistical Machine Learning and Supply Chain Management.  
+Amine earned a "Grande Ecole" Computer Science & Industrial Engineering diploma (equivalent to a master degree) from ENSIAME Engineering School at Hauts-de-France Polytechnic University, and had an exchange semester at TsingHua University in Beijing where he specialized in Statistical Machine Learning and Supply Chain Management.  
 He won the Mermoz Regional Scholarship from the region of Hauts-de-France in 2017.
