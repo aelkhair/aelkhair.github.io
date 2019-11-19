@@ -13,7 +13,7 @@ Amine EL KHAIR is a Data Scientist trained in Artificial Intelligence, Deep Lear
 
 His research focuses on time series forcasting and anomaly detection. Apart from Machine Learning, he have a keen interest in Financial Derivatives and Risk Management and Commodity Market (Paper and Physical Trading).
 
-During his studies, he ranked 21^st at The European Finance Cup in 2017 (organised by CACIB and EDHEC with 2400+ participants).
+During his studies, he ranked $$21^st$$ at The European Finance Cup in 2017 (organised by CACIB and EDHEC with 2400+ participants).
 
 
 
