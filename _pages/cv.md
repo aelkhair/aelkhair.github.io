@@ -15,14 +15,12 @@ Education
 2017-2018
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 2015-2018
 :   **MSc, Computer Science and Industrial Engineering**; ENSIAME University of
     Hauts-de-France (Valenciennes,FR)
 
-    *Minor: Awesomeology*
+    *Mermoz Regional Scholarship from the region of Hauts-de-France in 2017
 
 Experience
 ----------
