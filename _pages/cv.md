@@ -17,9 +17,12 @@ Education
 :   **MSc, Computer Science and Industrial Engineering**; ENSIAME University of
     Hauts-de-France (Valenciennes,FR)
 
+    * Relevant courses: *Econometrics, Accounting, ....*
+
 2017-2018
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
+    * Relevant courses: *International Logistics, Machine Learning, ...*
     *Mermoz Regional Scholarship from the region of Hauts-de-France in 2017*
 
 Experience
