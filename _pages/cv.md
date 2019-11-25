@@ -23,7 +23,7 @@ Education
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
     * Relevant courses: *International Logistics, Machine Learning, ...*
-    *Mermoz Regional Scholarship from the region of Hauts-de-France in 2017*
+    * *Mermoz Regional Scholarship from the region of Hauts-de-France in 2017*
 
 Experience
 ----------
