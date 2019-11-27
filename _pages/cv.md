@@ -84,3 +84,11 @@ Certifications
 **Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs)** - World Bank Group  - ***Certicate with distinction***
 
 **Machine Learning and Reinforcement Learning in Finance** - NYU Tandon School of Engineering
+
+Languages
+----------
+
+**Arabic**: Native
+**French**: Native
+**English**: Professional working prociency
+**Chinese Mandarin**: Elementary prociency
