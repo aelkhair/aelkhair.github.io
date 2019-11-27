@@ -10,6 +10,7 @@ header:
 Amine EL KHAIR
 ============
 
+<br/>
 
 # Education
 ---------
