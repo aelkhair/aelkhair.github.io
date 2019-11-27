@@ -34,6 +34,8 @@ Amine EL KHAIR
 
 	* *Two-year undergraduate intensive course in mathematics and physics.*
 
+<br/>
+
 # Experience
 ----------
 
@@ -65,6 +67,8 @@ Feb. 2018 - Aug. 2019
     
 	    **R, R Shiny, NLP, Machine Learning**
 
+<br/>
+
 # Projects
 ----------
 
@@ -81,12 +85,16 @@ Kaggle
 
     * *Ranked 2110th/4540*
 
+<br/>
+
 # Certifications
 ----------
 
 **Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs)** - World Bank Group  - ***Certicate with distinction***
 
 **Machine Learning and Reinforcement Learning in Finance** - NYU Tandon School of Engineering
+
+<br/>
 
 # Languages
 ----------
