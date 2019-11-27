@@ -90,10 +90,10 @@ Certifications
 Languages
 ----------
 
-***Arabic***: Native
+**Arabic**: Native
 
-***French***: Native
+**French**: Native
 
-***English***: Professional working prociency
+**English**: Professional working prociency
 
-***Chinese Mandarin***: Elementary prociency
+**Chinese Mandarin**: Elementary prociency
