@@ -89,6 +89,9 @@ Languages
 ----------
 
 **Arabic**: Native
+
 **French**: Native
+
 **English**: Professional working prociency
+
 **Chinese Mandarin**: Elementary prociency
