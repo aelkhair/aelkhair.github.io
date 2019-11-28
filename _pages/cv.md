@@ -20,7 +20,7 @@ Amine EL KHAIR
 
     * ***Relevant courses:*** *Econometrics, Algorithmics, Operational Research, Signal Processing, Accounting, Financial Analysis, Statistics, Object-Oriented Programming.*
     
-    * *Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
+    * Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
 
 2017 - 2018
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
