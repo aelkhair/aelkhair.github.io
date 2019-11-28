@@ -77,10 +77,10 @@ Feb. 2018 - Aug. 2019
 ENS DATA Challenge
 :   **Exotic pricing with multidimensional nonlinear interpolation by Natixis**
 
-    * *Ranked 26th/3619*
+    * *Ranked 26th*
 :   **Volatility prediction in nancial markets by CFM**
 
-    * *Ranked 31th/2461*
+    * *Ranked 31th*
 
 Kaggle
 :   **LANL Earthquake Prediction**
