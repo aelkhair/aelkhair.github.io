@@ -20,14 +20,16 @@ Amine EL KHAIR
 
     * ***Relevant courses:*** *Econometrics, Algorithmics, Operational Research, Signal Processing, Accounting, Financial Analysis, Statistics, Object-Oriented Programming.*
     
-    * Tsinghua Students ***Financial Data and Quantitative Investment*** Association member.
+    * *Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
 
 2017 - 2018
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
 	* ***Relevant courses:*** *Machine Learning, International Logistics, Engineering Economy, Decision Making, Quality Engineering, Production Management.*
 	
-    * *Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
+    * Tsinghua Students ***Financial Data and Quantitative Investment*** Association member.
+
+    * Tsinghua University ***International Students Blockchain*** Association member.
 
 2012 - 2015
 :   **Preparatory Classes**; Yassamine California (Casablanca,MA)
