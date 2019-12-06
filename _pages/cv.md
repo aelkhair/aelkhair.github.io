@@ -101,9 +101,9 @@ Kaggle
 # Languages
 ----------
 
-**Arabic**: Native
+**Arabic**: Native - Bilingual proficiency
 
-**French**: Native
+**French**: Native - Bilingual proficiency
 
 **English**: Full professional proficiency
 
