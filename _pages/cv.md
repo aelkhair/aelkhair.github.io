@@ -105,6 +105,6 @@ Kaggle
 
 **French**: Native
 
-**English**: Professional working prociency
+**English**: Full professional proficiency
 
 **Chinese Mandarin**: Elementary prociency
