@@ -18,23 +18,27 @@ Amine EL KHAIR
 2015 - 2018
 :   **Graduate Engineering School, Computer Science and Industrial Engineering**; ENSIAME University of Hauts-de-France (Valenciennes,FR)
 
-    * ***Relevant courses:*** *Econometrics, Algorithmics, Operational Research, Signal Processing, Accounting, Financial Analysis, Statistics, Object-Oriented Programming.*
+    * ***Relevant courses:*** *Econometrics, Algorithmics, Operational Research, Signal Processing, Accountancy, Financial Analysis, Statistics, Object-Oriented Programming.*
     
     * Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
 
 2017 - 2018
 :   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
 
-	* ***Relevant courses:*** *Machine Learning, International Logistics, Engineering Economy, Decision Making, Quality Engineering, Production Management.*
+	* ***Relevant courses:*** *International Logistics, Engineering Economy, Machine Learning, Decision Making, Quality Engineering, Production Management, Elementary Chinese.*
 	
     * Tsinghua Students ***Financial Data and Quantitative Investment*** Association member.
 
     * Tsinghua University ***International Students Blockchain*** Association member.
+    
+    * Tsinghua University student CrossFit Fitness Association.
 
 2012 - 2015
 :   **Preparatory Classes**; Yassamine California (Casablanca,MA)
 
 	* *Two-year undergraduate intensive course in mathematics and physics.*
+
+    * ***Project:*** Stochastic modeling of turbulent particle diffusion.
 
 <br/>
 
@@ -44,7 +48,11 @@ Amine EL KHAIR
 March 2019 - Present
 :   **Data Scientist (Consultant)** - Société Générale CIB (Paris,FR)
 
-    * Design and develop a Deep Learning approach for locating and extracting tables in PDF documents.
+    Liaised between the department of "Centre de comp\'etences Big Data" and other departments to deliver different solutions. I was responsible for:
+
+    * Conceiving and developing a Deep Learning approach to localize and extract tables from PDF documents.
+
+    * Developing and experimenting a Neural Network (Auto-Encoder) based predictive model to detect Invoice anomalies.
     
 	    **Python, Deep Learnig, GitLab, AWS**
 
@@ -92,9 +100,9 @@ Kaggle
 # Certifications
 ----------
 
-**Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs)** - World Bank Group  - ***Certicate with distinction***
+[**Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs)**](https://courses.edx.org/certificates/59f080c913014357972658c7bd57fb6a) - World Bank Group  - ***Certicate with distinction***
 
-**Machine Learning and Reinforcement Learning in Finance** - NYU Tandon School of Engineering
+[**Machine Learning and Reinforcement Learning in Finance**](https://www.coursera.org/account/accomplishments/verify/XQ6RUQ9HCQP8) - NYU Tandon School of Engineering
 
 <br/>
 
@@ -105,6 +113,6 @@ Kaggle
 
 **French**: Native - Bilingual proficiency
 
-**English**: Full professional proficiency
+**English**: Full professional prociency
 
 **Chinese Mandarin**: Elementary prociency
