@@ -82,11 +82,14 @@ Feb. 2018 - Aug. 2019
 # Technical Skills
 ----------
 
-**Programming and Computer Skills**: Python, Cython, R, C/C++, Spark, VBA, SQL,Tableau, Elastic Search, MS Office, LaTeX.
+Programming and Computer Skills
+:   Python, Cython, R, C/C++, Spark, VBA, SQL,Tableau, Elastic Search, MS Office, LaTeX.
 
-**Data Science**: Machine Learning, Statistics, Stochastic modeling, Econometrics, Natural Language Processing.
+Data Science
+:   Machine Learning, Statistics, Stochastic modeling, Econometrics, Natural Language Processing.
 
-**Finance**: Macroeconomics, Financial Derivatives, Black Scholes, Greeks, Quantitative Risk Management, Hedging, Asset Pricing, Commodity Markets, Modern Portfolio Theory.
+Finance
+:   Macroeconomics, Financial Derivatives, Black Scholes, Greeks, Quantitative Risk Management, Hedging, Asset Pricing, Commodity Markets, Modern Portfolio Theory.
 
 
 # Achievements
