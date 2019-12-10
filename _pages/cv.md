@@ -16,14 +16,14 @@ Amine EL KHAIR
 ---------
 
 2015 - 2018
-:   **Graduate Engineering School, Computer Science and Industrial Engineering**; ENSIAME University of Hauts-de-France (Valenciennes,FR)
+:   **Diplôme d'ingénieur - Computer Science and Industrial Engineering**; ENSIAME Engineering School - Université Polytechnique de Hauts-de-France (Valenciennes,FR)
 
     * ***Relevant courses:*** *Econometrics, Algorithmics, Operational Research, Signal Processing, Accountancy, Financial Analysis, Statistics, Object-Oriented Programming.*
     
     * Mermoz Regional ***Scholarship*** from the region of Hauts-de-France in 2017*
 
 2017 - 2018
-:   **Exchange Semester, Machine Learning and Supply Chain Management**; Tsinghua University (Beijing,CN)
+:   **Exchange Semester - Industrial Engineering and Machine Learning**; Department of Industrial Engineering - Tsinghua University (Beijing,CN)
 
 	* ***Relevant courses:*** *International Logistics, Engineering Economy, Machine Learning, Decision Making, Quality Engineering, Production Management, Elementary Chinese.*
 	
@@ -34,9 +34,7 @@ Amine EL KHAIR
     * Tsinghua University student CrossFit Fitness Association.
 
 2012 - 2015
-:   **Preparatory Classes**; Yassamine California (Casablanca,MA)
-
-	* *Two-year undergraduate intensive course in mathematics and physics.*
+:   **Classe Préparatoire - Mathematics and Physics**; Lycée Yassamine California (Casablanca,MA)
 
     * ***Project:*** Stochastic modeling of turbulent particle diffusion.
 
