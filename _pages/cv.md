@@ -36,7 +36,7 @@ Amine EL KHAIR
 2012 - 2015
 :   **Classe Préparatoire - Mathematics and Physics**; Lycée Yassamine California (Casablanca,MA)
 
-    * ***Project:*** Stochastic modeling of turbulent particle diffusion.
+    * ***Project: *** Stochastic modeling of turbulent particle diffusion.
 
 <br/>
 
@@ -46,7 +46,7 @@ Amine EL KHAIR
 March 2019 - Present
 :   **Data Scientist (Consultant)** - Société Générale CIB (Paris,FR)
 
-    *Liaised between the department of "Centre de comp\'etences Big Data" and other departments to deliver different solutions. I was responsible for:*
+    *Liaised between the department of "Centre de compétences Big Data" and other departments to deliver different solutions. I was responsible for:*
 
     * Conceiving and developing a Deep Learning approach to localize and extract tables from PDF documents.
 
@@ -79,7 +79,17 @@ Feb. 2018 - Aug. 2019
 
 <br/>
 
-# Projects
+# Technical Skills
+----------
+
+**Programming and Computer Skills**: Python, Cython, R, C/C++, Spark, VBA, SQL,Tableau, Elastic Search, MS Office, LaTeX.
+
+**Data Science**: Machine Learning, Statistics, Stochastic modeling, Econometrics, Natural Language Processing.
+
+**Finance**: Macroeconomics, Financial Derivatives, Black Scholes, Greeks, Quantitative Risk Management, Hedging, Asset Pricing, Commodity Markets, Modern Portfolio Theory.
+
+
+# Achievements
 ----------
 
 ENS DATA Challenge
@@ -94,6 +104,11 @@ Kaggle
 :   **LANL Earthquake Prediction**
 
     * *Ranked 2110th/4540*
+
+European Finance Cup - 2017
+:   **Trading simulation on ProRealTime (CAC40 Futures) and M&A case study by CACIB**
+
+    * *Ranked 21st*
 
 <br/>
 
