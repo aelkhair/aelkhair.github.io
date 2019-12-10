@@ -46,7 +46,7 @@ Amine EL KHAIR
 March 2019 - Present
 :   **Data Scientist (Consultant)** - Société Générale CIB (Paris,FR)
 
-    Liaised between the department of "Centre de comp\'etences Big Data" and other departments to deliver different solutions. I was responsible for:
+    *Liaised between the department of "Centre de comp\'etences Big Data" and other departments to deliver different solutions. I was responsible for:*
 
     * Conceiving and developing a Deep Learning approach to localize and extract tables from PDF documents.
 
@@ -55,9 +55,11 @@ March 2019 - Present
 	    **Python, Deep Learnig, GitLab, AWS**
 
 Sept. 2018 - Feb. 2019
-:   **Data Scientist (Consultant)** - Bpifrance (Paris,FR)
+:   **Data Scientist (Consultant)** - Bpifrance Private Equity (Paris,FR)
 
-    * Develop a Deep Learning based Named Entity Recognition model to extract valuable information from financial reports for decision-making purposes.
+    *As part of the "Accelex" team that develops AI and Machine Learning techniques to automate processes for the extraction, analysis, and sharing of critical investment performance and transaction data. I had maneuvered:*
+
+    * Developing a Deep Learning based Named Entity Recognition model to extract KPI's and valuable information from financial reports for decision-making purposes utilizing NLP knowledges.
     
 	    **Python, NLP, Deep Learnig, GitLab, Jira**
 
