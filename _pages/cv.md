@@ -64,16 +64,16 @@ Sept. 2018 - Feb. 2019
 	    **Python, NLP, Deep Learnig, GitLab, Jira**
 
 Feb. 2018 - Aug. 2019
-:   **R&D Deep Learning Engineer (Intern)** - Altran Labs (Paris,FR)
+:   **R&D Deep Learning Engineer (Internship)** - Altran Labs (Paris,FR)
 
     * Optimize Computer Vision Deep Learning model for Autonomous Driving Cars.
     
 	    **Python, C/C++, GPU**
 	    
 Feb. 2018 - Aug. 2019
-:   **Data Scientist (Intern)** - Ribatis (Casablanca,MA)
+:   **Data Scientist (Internship)** - Ribatis (Casablanca,MA)
 
-    * Develop a Statistical / Machine Learning model to quantify the impact of weak signals from textual data on	the evolution of socioeconomic time series.
+    * Develop a Statistical / Machine Learning model to quantify the impact of weak signals from textual data on the evolution of socioeconomic time series.
     
 	    **R, R Shiny, NLP, Machine Learning**
 
@@ -91,6 +91,7 @@ Data Science
 Finance
 :   Macroeconomics, Financial Derivatives, Black Scholes, Greeks, Quantitative Risk Management, Hedging, Asset Pricing, Commodity Markets, Modern Portfolio Theory.
 
+<br/>
 
 # Achievements
 ----------
