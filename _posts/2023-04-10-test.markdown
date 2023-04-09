@@ -8,3 +8,11 @@ categories: posts
 author: "Amine"
 tag: Test
 ---
+
+# What is Blockchain?
+The blockchain is a distributed ledger technology that underlies cryptocurrencies like Bitcoin. It provides a way to record and transfer data that is transparent, safe, auditable, and resistant to outages.
+
+Mining works by self-interested maintainers compete to find the next block in the chain (Proof of Work) which enables trust in a trust-less environment.
+
+# What is Ethereum?
+Ethereum was first launched in mid-2015. The central idea behind the Ethereum protocol is that of “smart contracts”. Ethereum provides an infrastructure for decentralized autonomous organizations (DAOs) and decentralized applications (DApps), creating an intermediary-free network of applications. Ethereum Classic is more similar to Bitcoin in the sense that it has a fixed and deflationary monetary supply. On the Ethereum network, miners work to earn “Ether”. This is also used by application developers to pay for transaction fees on the entire network.
