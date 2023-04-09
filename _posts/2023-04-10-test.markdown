@@ -3,6 +3,7 @@ layout: post
 title:  "test MD"
 date:   2023-04-10
 description:  "How to create my first Md"
+permalink: /posts/2023/04/test/
 categories: posts
 author: "Amine"
 tag: Test
